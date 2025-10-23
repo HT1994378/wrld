@@ -55,7 +55,7 @@ wrld creates fandom-specific social experiences through a modular architecture. 
 
 ## Architecture
 
-![wrld Architecture](screenshots/wrld-architecture.png)
+![wrld Architecture](screenshots/architecture.png)
 
 ## The Architecture Evolution
 
