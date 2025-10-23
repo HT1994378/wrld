@@ -7,8 +7,9 @@ A modular social platform that creates custom digital spaces for fandoms. Each w
 📹 [Watch the full walkthrough](PLACEHOLDER_LOOM_LINK)
 
 <p align="center">
-  <img src="screenshots/wrld-1.png" width="45%" />
-  <img src="screenshots/wrld-2.png" width="45%" />
+  <img src="screenshots/wrld-1.png" width="30%" />
+  <img src="screenshots/wrld-2.png" width="30%" />
+  <img src="screenshots/wrld-3.png" width="30%" />
 </p>
 
 ## The Problem
